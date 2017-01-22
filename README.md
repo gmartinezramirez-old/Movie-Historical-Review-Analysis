@@ -31,7 +31,7 @@
 
 Technologies used:
 * Mallet
-* Lucene
+* Lucene 6.0
 
 <p align="right"><a href="#top">:arrow_up:</a></p>
 ## Installation
