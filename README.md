@@ -35,6 +35,28 @@ Technologies used:
 
 <p align="right"><a href="#top">:arrow_up:</a></p>
 ## Installation
+* Using command line:
+
+```sh
+$ maven install
+```
+
+## Compilaton
+* Using command line:
+
+```sh
+$ javac
+```
+
+
+## Usage
+* Using command line:
+
+```sh
+$ java 
+```
+
+
 
 <p align="right"><a href="#top">:arrow_up:</a></p>
 ## Structure
